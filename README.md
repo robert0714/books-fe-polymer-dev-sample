@@ -61,9 +61,9 @@ sudo docker-compose up -d
 
 Testing
 ==========
-** [完整] (http://localhost:8080/)
-** [只有polymer] (http://localhost:8081/ )
-** [microservice] (http://localhost:8082/)
+** [完整] (http://localhost:8080/)<br/>
+** [只有polymer] (http://localhost:8081/ ) <br/>
+** [microservice] (http://localhost:8082/) <br/>
 
 
 Document
