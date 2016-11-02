@@ -64,7 +64,7 @@ Testing
 ** [完整] (http://localhost:8080/)<br/>
 ** [只有polymer] (http://localhost:8081/ ) <br/>
 ** [microservice] (http://192.168.57.35:8082/components/tc-books/demo/index.html) <br/>
-
+** http://192.168.57.35:8080/api/v1/books<br/>
 
 Document
 ==========
