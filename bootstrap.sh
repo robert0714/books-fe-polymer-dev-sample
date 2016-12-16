@@ -14,7 +14,5 @@ apt-get update -y
 echo "Installing Ansible..."
 apt-get install -y   ansible
 
-echo "Copying Ansible Configuration..."
-cp /vagrant/ansible/ansible.cfg /etc/ansible/ansible.cfg
 
 echo "Script  Endbootstrap_ansible.sh..."
